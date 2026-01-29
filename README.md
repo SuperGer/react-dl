@@ -1,16 +1,17 @@
-# React + Vite
+# 🍕 Entregas – Curso React | Pizzería Mamma Mía
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📍 Listado de entregas del curso REACT
 
-Currently, two official plugins are available:
+- ✅ **Hito 1** — Introducción a React  
+- ⏳ **Hito 2** — Estados y eventos  
+- ⏳ **Hito 3** — Renderización dinámica de componentes  
+- ⏳ **Hito 4** — Consumo de APIs con React  
+- ⏳ **Hito 5** — React Router I  
+- ⏳ **Hito 6** — Context  
+- ⏳ **Hito 7** — React Router II  
+- ⏳ **Hito 8** — JWT (Examen)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+listo el hito 1 profe. Entiendo que deberíamos seguir trabajando en el mismo repo y proyecto en las entregas posteriores asi que listé los entregables futuros para que tengamos mejor seguimiento.
+gracias profe!
