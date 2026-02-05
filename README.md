@@ -3,7 +3,7 @@
 ## 📍 Listado de entregas del curso REACT
 
 - ✅ **Hito 1** — Introducción a React  
-- ⏳ **Hito 2** — Estados y eventos  
+- ✅ **Hito 2** — Estados y eventos  
 - ⏳ **Hito 3** — Renderización dinámica de componentes  
 - ⏳ **Hito 4** — Consumo de APIs con React  
 - ⏳ **Hito 5** — React Router I  
@@ -13,5 +13,6 @@
 
 ---
 
-listo el hito 1 profe. Entiendo que deberíamos seguir trabajando en el mismo repo y proyecto en las entregas posteriores asi que listé los entregables futuros para que tengamos mejor seguimiento.
-gracias profe!
+Hito 2 listo incorporando modificaciones al Hito 1.
+
+Saludos Profe.
