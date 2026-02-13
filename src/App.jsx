@@ -5,6 +5,7 @@ import Home from './components/Home'
 import Footer from './components/Footer'
 import Register from './components/Register'
 import Login from './components/Login'
+import Cart from './components/Cart'
 
 
 function App() {
@@ -13,8 +14,9 @@ function App() {
     <>
       <Navbar setView={setView} />
       {/* <Home /> */} 
-      {view === 'login' && <Login />}
-      {view === 'register' && <Register />}
+      {/* view === 'login' && <Login />*/}
+      {/*view === 'register' && <Register />*/}
+      {<Cart />}
       <Footer />
     </>
   )
