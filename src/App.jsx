@@ -6,6 +6,7 @@ import Footer from './components/Footer'
 import Register from './components/Register'
 import Login from './components/Login'
 import Cart from './components/Cart'
+import Pizza from './components/Pizza'
 
 
 function App() {
@@ -13,10 +14,11 @@ function App() {
   return (
     <>
       <Navbar setView={setView} />
-      {/* <Home /> */} 
+      <Pizza />
+      {/*<Home />*/} 
       {/* view === 'login' && <Login />*/}
       {/*view === 'register' && <Register />*/}
-      {<Cart />}
+      {/*<Cart />*/}
       <Footer />
     </>
   )

@@ -5,7 +5,7 @@
 - ✅ **Hito 1** — Introducción a React  
 - ✅ **Hito 2** — Estados y eventos  
 - ✅ **Hito 3** — Renderización dinámica de componentes  
-- ⏳ **Hito 4** — Consumo de APIs con React  
+- ✅ **Hito 4** — Consumo de APIs con React  
 - ⏳ **Hito 5** — React Router I  
 - ⏳ **Hito 6** — Context  
 - ⏳ **Hito 7** — React Router II  
@@ -13,13 +13,12 @@
 
 ---
 
-Hito 3 
+Hito 4 
 
-Se crea el card con las pizzas leyendo el arreglo del JS.
-Se crea componente Card.jsx para armar el carrito de compra. (quité las pizzas con cantidad 0 igual como extra)
+Consume api que viene en documentación de apoyo (se complicó un poco la config y tuve que agregar una proxy a vite)
+Se muestra detalle de pizza en Pizza.jsx 
 
 ## OJO PROFE:
-He ido comentando algunas líneas de código como indica el documento del desafío, pero todo está funcional y puede validar descomentando.
-
+Se entrega según lo que se pide en documento desafío, por lo que habrá secciones comentadas.
 
 Saludos Profe.
