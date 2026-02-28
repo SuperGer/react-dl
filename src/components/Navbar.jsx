@@ -1,39 +1,38 @@
-const Navbar = ({ setView }) => {
+import { Link } from 'react-router-dom'
+
+const Navbar = () => {
   const total = 25000
   const token = false
 
   return (
     <nav className="navbar navbar-dark bg-dark px-4">
       <div className="d-flex gap-2">
-        <button className="btn btn-outline-light">🍕 Home</button>
+        <Link className="btn btn-outline-light" to="/">
+          🍕 Home
+        </Link>
 
         {token ? (
           <>
-            <button className="btn btn-outline-light">🔓 Profile</button>
+            <Link className="btn btn-outline-light" to="/profile">
+              🔓 Profile
+            </Link>
             <button className="btn btn-outline-light">🔒 Logout</button>
           </>
         ) : (
           <>
-            <button
-              className="btn btn-outline-light"
-              onClick={() => setView('login')}
-            >
+            <Link className="btn btn-outline-light" to="/login">
               🔐 Login
-            </button>
-
-            <button
-              className="btn btn-outline-light"
-              onClick={() => setView('register')}
-            >
+            </Link>
+            <Link className="btn btn-outline-light" to="/register">
               🔐 Register
-            </button>
+            </Link>
           </>
         )}
       </div>
 
-      <button className="btn btn-outline-info">
+      <Link className="btn btn-outline-info" to="/cart">
         🛒 Total: ${total.toLocaleString('es-CL')}
-      </button>
+      </Link>
     </nav>
   )
 }

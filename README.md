@@ -6,19 +6,16 @@
 - ✅ **Hito 2** — Estados y eventos  
 - ✅ **Hito 3** — Renderización dinámica de componentes  
 - ✅ **Hito 4** — Consumo de APIs con React  
-- ⏳ **Hito 5** — React Router I  
+- ✅ **Hito 5** — React Router I  
 - ⏳ **Hito 6** — Context  
 - ⏳ **Hito 7** — React Router II  
 - ⏳ **Hito 8** — JWT (Examen)
 
 ---
 
-Hito 4 
+Hito 5 
 
-Consume api que viene en documentación de apoyo (se complicó un poco la config y tuve que agregar una proxy a vite)
-Se muestra detalle de pizza en Pizza.jsx 
-
-## OJO PROFE:
-Se entrega según lo que se pide en documento desafío, por lo que habrá secciones comentadas.
+Se actualizan los link con el uso de router para darle sentido a los botones usados en los hitos anteriores.
+PD: se me rompió todo al mover los archis jsx de carpeta, ahi me cabecié contra el teclado...
 
 Saludos Profe.
